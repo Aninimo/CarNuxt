@@ -1,6 +1,9 @@
 # CarNuxt
 rental car made with Nuxt, node, tailwindcss, stripe and mongodb
 
+## Run frontend dev server:
+npm run dev
+
 ## Technologies used
 <ul>
   <li>Nuxt</li>
