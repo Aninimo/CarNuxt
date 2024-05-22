@@ -3,7 +3,7 @@ rental car made with Nuxt, node, tailwindcss, stripe and mongodb
 
 ## Setup .env file
 ```
-STRIPE_SECRETE_KEY
+STRIPE
 MONGODB
 ```
 ## Run frontend dev server:
