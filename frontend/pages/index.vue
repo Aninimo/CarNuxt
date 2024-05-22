@@ -1,0 +1,11 @@
+<template>
+  <main>
+    <HeroSection/>
+    <HowWork/>
+    <Experience/>
+    <OurCars/>
+    <Customers/>
+    <Newsletter/>
+    <Footer/>
+  </main>
+</template>
