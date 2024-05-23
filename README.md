@@ -10,10 +10,19 @@ STRIPE
 MONGODB
 ```
 ## Run frontend dev server:
+```
 npm run dev
+```
 
-## Run backend server: 
-node index.js 
+## Install deps:
+```
+npm install
+```
+
+## Run backend server:
+```
+node index.js
+```
 
 ## Technologies used
 <ul>
