@@ -1,6 +1,9 @@
 # CarNuxt
 rental car made with Nuxt, node, tailwindcss, stripe and mongodb
 
+## Image
+![InShot_20240523_080153706~2](https://github.com/Aninimo/CarNuxt/assets/75839810/f4aaeba9-73d1-481a-8729-4a1a9a63d11b)
+
 ## Demo
 https://teste-blond-psi.vercel.app/
 
