@@ -1,6 +1,9 @@
 # CarNuxt
 rental car made with Nuxt, node, tailwindcss, stripe and mongodb
 
+## Demo
+https://teste-blond-psi.vercel.app/
+
 ## Setup .env file
 ```
 STRIPE
